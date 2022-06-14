@@ -1,6 +1,6 @@
 # Hey!!💀
 
-My name is Matheus Rossi (nickname: FoxTrojan), I'm from Brazil! I'm A beginner in Front-End Enginner.
+My name is Matheus Rossi (nickname: FoxTrojan), I'm from Brazil! I'm A beginner in Full-Stack-Front-End Enginner.
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
