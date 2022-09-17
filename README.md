@@ -4,7 +4,7 @@ My name is Matheus Rossi (nickname: FoxTrojan), I'm from Brazil! I'm A beginner 
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-#### 🧠 "O estudo lapida o conhecimento até chegar ao tesouro da sabedoria" 🧠
+#### 🧠 "Study polishes knowledge until it reaches the treasure of wisdom" 🧠
 
 - 📍 From PE living in Recife
 - 🧁 Love front-end stacks
